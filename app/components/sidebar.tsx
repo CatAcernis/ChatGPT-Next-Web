@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           ChatAcernis
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Simon Liu&aposs Chat Bot
+          Simon Liu&apos;s Chat Bot
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
